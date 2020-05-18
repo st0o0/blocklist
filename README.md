@@ -1,6 +1,6 @@
 # Auto-updated blocklist 
-Every two weeks new updates 
-## Changes 
+Every week new update
+## Changes
 ### 180520
-* 36865Domains added:
-* 60441Domains deleted:
+* Domains added: 36865
+* Domains deleted: 60441
